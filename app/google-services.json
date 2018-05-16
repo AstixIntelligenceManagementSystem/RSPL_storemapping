@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1063936780895",
+    "firebase_url": "https://rspl-30eec.firebaseio.com",
+    "project_id": "rspl-30eec",
+    "storage_bucket": "rspl-30eec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063936780895:android:1a207af05c965714",
+        "android_client_info": {
+          "package_name": "com.example.android.rspl_storemapping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063936780895-htmklb7hsk1gfaick77n5fimneupo4ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmh6vyY1FzHfXMFlmqWsApXJaA-Zxt7oA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
